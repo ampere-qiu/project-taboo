@@ -1,0 +1,115 @@
+{
+    "cards": [
+    {
+        "keyword": "Homework",
+        "taboo_words": ["Student", "Teacher", "House", "Children"],
+        "explanation": "宿題"
+        },
+      {
+        "keyword": "Elephant",
+        "taboo_words": ["Tusk", "Trunk", "Giant", "Africa"],
+        "explanation": "象"
+      },
+      {
+        "keyword": "Pizza",
+        "taboo_words": ["Cheese", "Slice", "Italian", "Delivery"],
+        "explanation": "ピザ"
+      },
+      {
+        "keyword": "Computer",
+        "taboo_words": ["Keyboard", "Screen", "Internet", "Mouse"],
+        "explanation": "コンピューター"
+      },
+      {
+        "keyword": "Guitar",
+        "taboo_words": ["Strings", "Music", "Instrument", "Acoustic"],
+        "explanation": "ギター"
+      },
+      {
+        "keyword": "Sunflower",
+        "taboo_words": ["Yellow", "Seeds", "Plant", "Garden"],
+        "explanation": "ひまわり"
+      },
+      {
+        "keyword": "Library",
+        "taboo_words": ["Books", "Quiet", "Study", "Knowledge"],
+        "explanation": "図書館"
+      },
+      {
+        "keyword": "Soccer",
+        "taboo_words": ["Ball", "Goal", "Team", "Field"],
+        "explanation": "サッカー"
+      },
+      {
+        "keyword": "Rainbow",
+        "taboo_words": ["Colors", "Sky", "Arc", "Weather"],
+        "explanation": "虹"
+      },
+      {
+        "keyword": "Bicycle",
+        "taboo_words": ["Pedals", "Wheels", "Ride", "Transportation"],
+        "explanation": "自転車"
+      },
+      {
+        "keyword": "Piano",
+        "taboo_words": ["Keys", "Music", "Grand", "Instrument"],
+        "explanation": "ピアノ"
+      },
+      {
+        "keyword": "Fireworks",
+        "taboo_words": ["Explosion", "Sky", "Celebration", "Event"],
+        "explanation": "花火"
+      },
+      {
+        "keyword": "Dolphin",
+        "taboo_words": ["Ocean", "Intelligent", "Mammal", "Jump"],
+        "explanation": "イルカ"
+      },
+      {
+        "keyword": "Cinema",
+        "taboo_words": ["Movie", "Screen", "Theater", "Popcorn"],
+        "explanation": "映画館"
+      },
+      {
+        "keyword": "Mountains",
+        "taboo_words": ["Peak", "Hiking", "Snow", "Range"],
+        "explanation": "山々"
+      },
+      {
+        "keyword": "Telephone",
+        "taboo_words": ["Call", "Communication", "Device", "Mobile"],
+        "explanation": "電話"
+      },
+      {
+        "keyword": "Ice Cream",
+        "taboo_words": ["Cold", "Sweet", "Dessert", "Flavor"],
+        "explanation": "アイスクリーム"
+      },
+      {
+        "keyword": "Robot",
+        "taboo_words": ["Artificial", "Intelligent", "Machine", "Automation"],
+        "explanation": "ロボット"
+      },
+      {
+        "keyword": "Map",
+        "taboo_words": ["Location", "Guide", "Navigation", "Road"],
+        "explanation": "地図"
+      },
+      {
+        "keyword": "Camera",
+        "taboo_words": ["Photo", "Lens", "Capture", "Focus"],
+        "explanation": "カメラ"
+      },
+      {
+        "keyword": "Clock",
+        "taboo_words": ["Time", "Hour", "Minute", "Tick"],
+        "explanation": "時計"
+      },
+      {
+        "keyword": "Waterfall",
+        "taboo_words": ["Cascade", "Flow", "Nature", "Scenic"],
+        "explanation": "滝"
+      }
+    ]
+  }
+  
